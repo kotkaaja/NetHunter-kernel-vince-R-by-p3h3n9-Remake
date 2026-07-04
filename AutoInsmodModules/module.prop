@@ -1,0 +1,6 @@
+id=AutoInsmodModules
+name=Auto Insmod Modules
+version=v1.0
+versionCode=10
+author=p3h3n9
+description=This module will automatically insmod all existing modules when Android starts.
